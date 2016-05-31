@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "About Me"
+date:   2016-05-28 10:19:24 -0400
+categories: about-me
+---
+
+My name is Gabriel Rambert, I'm 34 years old, from Ottawa, Ontario, Canada. I have a B.A. in Art History and German Cultural Studies from McGill University, Montreal, QC.
+
+I've been doing freelance frontend development for the past 4 years, living in cities such as Montreal, Berlin, and Toronto.
+
+Check out some of my [my work](/work/2016/05/29/work.html)
+

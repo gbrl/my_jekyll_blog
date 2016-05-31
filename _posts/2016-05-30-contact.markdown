@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Contact"
+date:   2016-05-30 10:19:24 -0400
+categories: contact
+---
+
+***
+
+<form action="https://getsimpleform.com/messages?form_api_token=d9b789c4edda3188d69e49e8b71d460b" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- all your input fields here.... -->
+  <label>email: </label>
+  <input type='text' name='email' />
+  <br />
+  <label>phone: </label>
+  <input type='text' name='phone' />
+  <br />
+  <label>message: </label>
+  <textarea name="message"></textarea>
+  <br />
+  <input type='submit' value='Submit' />
+</form>
+      
+***
